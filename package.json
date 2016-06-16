@@ -1,0 +1,39 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "myour.cc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasonCheng/main.git"
+  },
+  "keywords": [
+    "myour"
+  ],
+  "author": "DasonCheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DasonCheng/main/issues"
+  },
+  "homepage": "https://github.com/DasonCheng/main#readme",
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.1",
+    "node-sass": "^3.7.0",
+    "pug": "^2.0.0-beta3",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1",
+    "webpack-stream": "^3.2.0"
+  }
+}

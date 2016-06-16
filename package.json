@@ -2,7 +2,7 @@
   "name": "main",
   "version": "1.0.0",
   "description": "myour.cc",
-  "main": "index.html",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,6 +28,7 @@
     "file-loader": "^0.8.5",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.0.1",
+    "gulp-pug": "^3.0.3",
     "node-sass": "^3.7.0",
     "pug": "^2.0.0-beta3",
     "sass-loader": "^3.2.0",

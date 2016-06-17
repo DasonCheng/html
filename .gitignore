@@ -2,4 +2,3 @@ node_modules
 public/build
 public/imgs
 public/lib/bower_components
-*.html
